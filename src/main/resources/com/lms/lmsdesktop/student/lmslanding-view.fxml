@@ -19,7 +19,7 @@
                 <Font name="System Bold" size="34.0" />
             </font>
         </Label>
-        <Label layoutX="368.0" layoutY="80.0" text="Md. Fahim Bin Amin - 011201158">
+        <Label layoutX="368.0" layoutY="80.0" text="Student Name - Student ID">
             <font>
                 <Font size="31.0" />
             </font>

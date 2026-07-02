@@ -9,6 +9,15 @@
     <version>1.0-SNAPSHOT</version>
     <name>LMSdesktop</name>
 
+    <developers>
+        <developer>
+            <id>jose-rosario-git</id>
+            <name>Jose Rosario</name>
+            <email>joselrosario81@gmail.com</email>
+            <url>https://github.com/jose-rosario-git</url>
+        </developer>
+    </developers>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>19</java.version>

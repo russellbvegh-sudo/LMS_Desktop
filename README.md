@@ -30,7 +30,7 @@ A video demonstration is available [here](https://www.youtube.com/watch?v=S84QZH
 >
 > ![allow multiple instance](./img/allowmultipleinstance.png)
 
-- Clone the repository `git clone https://github.com/jose-rosario-git/LMS_Desktop.git`
+- Clone the repository `git clone https://github.com/russellbvegh-sudo/LMS_Desktop.git`
 - Open it in VS Code or IntelliJ IDEA. Recommending the IntelliJ IDEA.
 - Install all libraries from `lib` folder.
 - Import the database `sql` from `src/resources/database/student_signup.sql` to any client. I prefer MySQL Workbench. Alter its password to `1234` or `root`.
@@ -87,25 +87,25 @@ A video demonstration is available [here](https://www.youtube.com/watch?v=S84QZH
 
 - Faculty Course Content Add (I purposely added some gibberish content here. Don't worry! In the next step, I will delete them, and I will also show you whether the delete content feature is working or not!)
 
-https://github.com/jose-rosario-git/LMS_Desktop/assets/64195132/b3bf25b0-d1be-4062-9579-28e16acc01fb
+https://github.com/russellbvegh-sudo/LMS_Desktop/assets/64195132/b3bf25b0-d1be-4062-9579-28e16acc01fb
 
 - Faculty Course Content Delete
 
-https://github.com/jose-rosario-git/LMS_Desktop/assets/64195132/6fc0b8cf-65db-45d6-a54c-a116eec88aa6
+https://github.com/russellbvegh-sudo/LMS_Desktop/assets/64195132/6fc0b8cf-65db-45d6-a54c-a116eec88aa6
 
 
 - Faculty Slider
 
-https://github.com/jose-rosario-git/LMS_Desktop/assets/64195132/148df098-499e-47b6-bc29-32fffdaf92a5
+https://github.com/russellbvegh-sudo/LMS_Desktop/assets/64195132/148df098-499e-47b6-bc29-32fffdaf92a5
 
 
 - A nice standalone calculator integrated to LMS Desktop
 
-https://github.com/jose-rosario-git/LMS_Desktop/assets/64195132/70c8b435-04bc-4e43-8442-9fd2a633acb5
+https://github.com/russellbvegh-sudo/LMS_Desktop/assets/64195132/70c8b435-04bc-4e43-8442-9fd2a633acb5
 
 - Chat System (The teacher must need to start the server so that the students can chat among them. Teacher can see all the chat so that they are not cheating during the exams! The teacher can generate the event log as `.xlsx` file.) - ***TCP based Chat System has been applied here!***
 
-https://github.com/jose-rosario-git/LMS_Desktop/assets/64195132/daf16b3e-811d-4cf7-a29c-9874df23f1eb
+https://github.com/russellbvegh-sudo/LMS_Desktop/assets/64195132/daf16b3e-811d-4cf7-a29c-9874df23f1eb
 
 The `.xlsx` file generated in the above video is right [here](./eventLogs/eventLogs_2024-05-31-11-30-33.xlsx).
 
@@ -118,7 +118,7 @@ The `.xlsx` file generated in the above video is right [here](./eventLogs/eventL
 
 This window gets displayed if the user's new account gets created successfully.
 
-https://github.com/jose-rosario-git/LMS_Desktop/assets/64195132/2a299a68-2f96-48e3-b6b1-2f140073848b
+https://github.com/russellbvegh-sudo/LMS_Desktop/assets/64195132/2a299a68-2f96-48e3-b6b1-2f140073848b
 
 
 - Student Signup Fail Window
@@ -129,17 +129,17 @@ This window gets displayed if the user do something wrong during the creation of
 
 - Student Course View
 
-https://github.com/jose-rosario-git/LMS_Desktop/assets/64195132/6cc338b8-5e07-4ffd-943a-042ffeb97f9c
+https://github.com/russellbvegh-sudo/LMS_Desktop/assets/64195132/6cc338b8-5e07-4ffd-943a-042ffeb97f9c
 
 - Admin Handles Students
 
-https://github.com/jose-rosario-git/LMS_Desktop/assets/64195132/48281266-36c2-4a76-af8b-b4d5844db7f7
+https://github.com/russellbvegh-sudo/LMS_Desktop/assets/64195132/48281266-36c2-4a76-af8b-b4d5844db7f7
 
 - Admin Handles Faculties
 
-https://github.com/jose-rosario-git/LMS_Desktop/assets/64195132/67de0afd-cbd0-4e67-b619-d2b0774fedd3
+https://github.com/russellbvegh-sudo/LMS_Desktop/assets/64195132/67de0afd-cbd0-4e67-b619-d2b0774fedd3
 
 
 ## Author
 
-- [Jose Rosario](https://github.com/jose-rosario-git) - Creator & Developer
+- [Russell Vegh](https://github.com/russellbvegh-sudo) - Creator & Developer
